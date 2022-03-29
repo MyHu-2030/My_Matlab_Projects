@@ -1,3 +1,6 @@
 
+This repository accompanies Advanced Robotic Vehicles Programming: An Ardupilot and Pixhawk Approach by Julio Alberto Mendoza Mendoza, Victor Gonzalez-Villela (Apress, 2020).
+
+
 
 https://github.com/Apress/advanced-robotic-vehicles-programming
